@@ -748,6 +748,7 @@ not
 now
 noy
 nth
+nub
 nur
 nut
 nyx
@@ -780,6 +781,7 @@ oof
 ooh
 oom
 oon
+oop
 oor
 oos
 oot
