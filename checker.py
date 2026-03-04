@@ -6,7 +6,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ── Config ────────────────────────────────────────────────────────────────────
-INPUT_FILE      = "username.txt"
+INPUT_FILE      = "usernames.txt"
 WORKERS         = 100
 BATCH_SIZE      = 1000
 DEBUG           = False
