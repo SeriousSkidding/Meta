@@ -126,7 +126,6 @@ bok
 bon
 boo
 bop
-bor
 bos
 bot
 bow
