@@ -396,6 +396,7 @@ gay
 ged
 gee
 gel
+gem
 gen
 geo
 ger
@@ -405,9 +406,11 @@ gib
 gid
 gie
 gif
+gig
 gin
 gio
 gip
+gis
 git
 gnu
 goa
@@ -510,6 +513,7 @@ ins
 ion
 ios
 ire
+irk
 ish
 ism
 iso
@@ -519,14 +523,18 @@ ivy
 jab
 jag
 jai
+jak
+jam
 jap
 jar
 jaw
+jay
 jee
 jet
 jeu
 jib
 jig
+jin
 jiz
 job
 joe
@@ -537,6 +545,7 @@ jot
 jow
 joy
 jud
+jug
 jun
 jus
 jut
@@ -544,11 +553,13 @@ kab
 kae
 kaf
 kai
+kak
 kam
 kas
 kat
 kaw
 kay
+kea
 keb
 ked
 kef
@@ -557,6 +568,7 @@ ken
 kep
 ket
 kex
+key
 khi
 kid
 kif
@@ -565,6 +577,7 @@ kip
 kir
 kis
 kit
+koa
 kob
 koi
 kon
@@ -575,6 +588,7 @@ kow
 kue
 kye
 lab
+lac
 lad
 lag
 lah
@@ -584,6 +598,7 @@ lar
 las
 lat
 lav
+law
 lax
 lay
 lea
